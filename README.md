@@ -39,4 +39,17 @@ A video presentation summarizing key findings and theoretical applications from 
 - Applied rational choice frameworks to unconventional topics  
 - Strengthened analytical thinking across economic and engineering systems  
 - Developed interdisciplinary insights bridging economics, law, and tech
-  
+
+
+  ## ⚠️ Academic Integrity
+
+All work in this repository complies with [Toronto Metropolitan University’s Senate Policy 60 – Academic Integrity](https://www.torontomu.ca/senate/policies/pol60.pdf).  
+These labs and project submissions are original, created solely for academic purposes, and reflect ethical academic conduct.
+
+**Students currently enrolled in this course are expected to strictly follow Policy 60.**  
+Use of this material should support learning and not violate course or institutional academic integrity standards.
+
+---
+
+© 2023 Hamza Malik
+
